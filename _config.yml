@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+deploy: 
+  type: git
+  repository: https://afafang.github.io/
+  branch: main
